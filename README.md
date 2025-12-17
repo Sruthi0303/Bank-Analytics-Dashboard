@@ -1,10 +1,5 @@
 # Bank-Analytics-Dashboard
 Bank Analytics Dashboard using Excel, Tableau, Power BI
-# 📊 Bank Analytics Dashboard
-
-### *(Excel | Power BI | Tableau | MySQL)*
-
----
 
 ## 📌 Project Overview
 
