@@ -36,7 +36,6 @@ This project helps banks and financial institutions to:
 | **Power BI**        | Interactive dashboards, DAX measures, advanced visuals      |
 | **Tableau**         | Parameters, calculated fields, maps, trend analysis         |
 | **MySQL**           | Data extraction, aggregations, KPI calculations             |
-| **GitHub**          | Version control and project showcasing                      |
 
 ---
 
@@ -166,13 +165,3 @@ MySQL queries were used to:
 
 **K Sruthi**
 Aspiring Data Analyst / Business Analyst
-
-🔗 GitHub: *(add your GitHub profile link)*
-🔗 LinkedIn: *(add your LinkedIn profile link)*
-
----
-
-## 📌 Resume Description (Ready to Use)
-
-> **Bank Analytics Dashboard | Excel, Power BI, Tableau**
-> Developed end-to-end analytics dashboards using Excel, Power BI, and Tableau with MySQL-based data analysis to track loan performance, payments, customer segmentation, and regional trends.
